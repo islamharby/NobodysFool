@@ -1,0 +1,538 @@
+body{
+    background-color: #ffffff;
+    margin: 0px;
+    padding: 0px;
+}
+.heed{
+    background-color: #2E2E2E;
+    padding: 29px;
+    margin: 0;
+    
+}
+.heed ul{
+    list-style-type: none;
+    float: left;
+    padding: 0 0 0 0;
+    margin: -12px 0px 0 -10px;
+}
+.heed li{
+    float: left;
+    padding: 0px 6px;
+}
+.heed a{
+    text-decoration: none;
+    color: #828282;
+    font-family: Georgia;
+    font-size: 12pt;
+}
+.Linkedin{
+    width: 35px;
+    height: 25pt;
+    background-color: #828282;
+    float: right;
+    border-radius: 100%;
+    margin: -16px 178px 0 0;
+}
+.Linkedin img{
+    width: 50%;
+    height: 16pt;
+    padding: 4px 0 0 8px;
+}
+.twitter{
+    width: 35px;
+    height: 25pt;
+    background-color: #828282;
+    float: right;
+    border-radius: 100%;
+    margin: -16px -81px 0 0;
+}
+.twitter img{
+    width: 47%;
+    height: 14pt;
+    padding: 6px 0 0 11px;
+}
+.hotmail{
+    width: 35px;
+    height: 25pt;
+    background-color: #828282;
+    float: right;
+    border-radius: 100%;
+    margin: -16px -124px 0 0;
+}
+.hotmail img{
+    width: 48%;
+    height: 15pt;
+    padding: 5px 0 0 9px;
+}
+.google{
+    width: 35px;
+    height: 25pt;
+    background-color: #828282;
+    float: right;
+    border-radius: 100%;
+    margin: -16px -168px 0;
+}
+.google img{
+    width: 47%;
+    height: 15pt;
+    padding: 5px 0 0 10px;
+}
+.wifi{
+    width: 35px;
+    height: 25pt;
+    background-color: #828282;
+    float: right;
+    border-radius: 100%;
+    margin: -16px -212px 0 0;
+}
+.wifi img{
+    width: 48%;
+    height: 16pt;
+    padding: 4px 0 0 9px;
+}
+.HOMEPAGE{
+    margin: 9px 0px 75px -27px;
+}
+.HOMEPAGE ul{
+    list-style-type: none;
+}
+.HOMEPAGE li{
+    float: left;
+    padding: 0 0px 0px 0px;
+    margin: 27px 28px 30px 14px;
+    font-family: Georgia;
+    font-size: 14pt;
+}
+.HOMEPAGE a{
+    float: left;
+    text-decoration: none;
+    color: #2E2E2E;
+}
+.lin{
+    background-color: #F1F1F1;
+    width: 94%;
+    height: 5pt;
+    margin: 9px 0px 55px 26px;
+}
+.search{
+    margin: -20px 0 76px 32px;
+}
+.search p{
+    font-size: 12pt;
+    margin: -13px 0px 35px;
+    font-family: Georgia;
+    color: #999999;
+}
+.search h6{
+    font-size: 36pt;
+    font-family: Georgia;
+    margin: 31px 0px 0px -4px;
+}
+.search-buttom{
+    float: right;
+    font-size: 12pt;
+    background-color: #0099FF;
+    color: #fff;
+    width: 7%;
+    height: 28pt;
+    border-radius: 7%;
+    margin: -87px 80px 0 0px;
+    border: aquamarine;
+    cursor: pointer;
+    font-family: Georgia;
+}
+.search-text{
+    float: right;
+    width: 21%;
+    height: 28pt;
+    border-radius: 5%;
+    background-color: #F1F1F1;
+    font-size: 12pt;
+    margin: -88px 179px 0 0;
+    border: navajowhite;
+    color: #a8a6a6;
+    font-family: Georgia;
+}
+.contant{
+    background-color: #F1F1F1;
+    padding: 122px 0 165px;
+}
+.cotant-head{
+    font-size: 36pt;
+    font-family: Georgia;
+    color: #333333;
+    width: 480px;
+    margin: 113px 0 0 23px;
+}
+.contant-body{
+    width: 35%;
+    font-size: 16pt;
+    margin: -93px 0 21px 3px;
+    padding: 77px 0 0px 26px;
+    font-family: Georgia;
+    color: #666666;
+}
+.READ-MORE{
+    background-color: #0099FF;
+    height: 22pt;
+    margin: 0px 0px -39px 32px;
+    padding: 10px 0 0px 0px;
+    width: 10%;
+    border-radius: 6%;
+}
+.READ-MORE a{
+    text-decoration: none;
+    color: #fff;
+    margin: 0 0 0 15px;
+}
+.black-box{
+    background-color: #333333;
+    width: 52%;
+    height: 448pt;
+    margin: -632px 0 100px 607px;
+}
+.black-box p{
+    color: #fff;
+    padding: 302px 0px 0px 311px;
+    font-family: Georgia;
+    font-size: 22pt;
+}
+.black-box ul{
+    list-style-type: none;
+}
+.black-box li{
+    width: 12px;
+    height: 12px;
+    border-radius: 100%;
+    float: left;
+    margin: 190px 0 0px 3px;
+    margin-left: 4px;
+    border: 3px black solid;
+    background-color: #000000;
+}
+.black-box li.active{
+    background-color: #333333;
+    border: 3px black solid;
+}
+.lin-medll{
+    background-color: #E9E9E9;
+    width: 100%;
+    height: 5pt;
+    margin: 0px 0px 0px 0px;
+}
+.lin-end{
+    background-color: #E9E9E9;
+    width: 100%;
+    height: 5pt;
+    margin: -100px 0px 0px 0px;
+}
+.frist-text{
+    float: left;
+    width: 22%;
+    text-align: center;
+    margin: -471px 119px 0 665px;
+    font-family: Georgia;
+    font-size: 13pt;
+}
+.frist-text b{
+    color: #0099FF;
+    font-family: Georgia;
+    font-size: 16pt;
+}
+.soucnd-text{
+    float: right;
+    width: 22%;
+    text-align: center;
+    margin: -471px 64px 0 714px;
+    font-family: Georgia;
+    font-size: 13pt;
+}
+.soucnd-text b{
+    color: #0099FF;
+    font-family: Georgia;
+    font-size: 16pt;
+}
+.third-text{
+    float:left;
+    width: 22%;
+    text-align: center;
+    margin: -220px 65px 0 671px;
+    font-family: Georgia;
+    font-size: 13pt;
+}
+.third-text b{
+    color: #0099FF;
+    font-family: Georgia;
+    font-size: 16pt;
+}
+.four-text{
+    float:right;
+    width: 22%;
+    text-align: center;
+    margin: -241px 64px 0 714px;
+    font-family: Georgia;
+    font-size: 13pt;
+}
+.four-text b{
+    color: #0099FF;
+    font-family: Georgia;
+    font-size: 16pt;
+}
+.bord-contactus{
+    background-color: #E0E0E0;
+    width: 97%;
+    height: 97pt;
+    margin: 116px 0 55px 26px;
+}
+.bord-contactus p{
+    font-size: 18pt;
+    padding: 19px 0px 0px 13px;
+    /* float: left; */
+    font-family: Georgia;
+}
+.bord-contactus b{
+    font-size: 36pt;
+    font-family: Georgia;
+    color: #333333;
+}
+.bord-contactus input{
+    width: 359px;
+    height: 47pt;
+    margin: -93px 0 0 919px;
+    cursor: pointer;
+    border-radius: 6%;
+    border: aliceblue;
+    background-color: #0099FF;
+    color: #E0E0E0;
+    font-size: 26pt;
+    font-family: Georgia;
+    float: left;
+}
+.lin-blu{
+    background-color: #0099FF;
+    width: 1%;
+    height: 97pt;
+    margin: -184px 0 109px 14px;
+}
+.page-end{
+    background-color: #1A1A1A;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 428pt;
+}
+.aboutus{
+    color: #fff;
+    width: 19%;
+    font-size: 12pt;
+    margin: 0 0 0 29px;
+    float: left;
+    padding: 47px 59px 0 15px;
+    font-family: Georgia;
+}
+.aboutus b{
+    font-family: Georgia;
+    font-size: 12pt;
+}
+.aboutus ul{
+    list-style-type: none;
+    width: 230px;
+    height: 90pt;
+    border: 1px #999999 solid;
+    margin: 0 0 34px -11px;
+    padding: 12px 45px 0 0;
+    font-family: Georgia;
+    font-size: 15.62pt;
+}
+.aboutus li{
+    background-color: #232323;
+    width: 184px;
+    height: 45px;
+    padding: 45px 0px 28px 73px;
+    margin: -6px 0 0 8px;
+}
+.aboutus p{
+     color: #666666;
+     margin: 1px 0 20px -9px;
+}
+.aboutus a{
+    color: #0099FF;
+    text-decoration: none;
+    margin: 0 0 0 179px;
+    padding: 0 0 0 2px;
+    font-family: Georgia;
+    font-size: 9pt;
+}
+.quicklinks{
+    color: #fff;
+    width: 20%;
+    font-size: 14pt;
+    float: left;
+    padding: 47px 59px 0 0px;
+}
+.quicklinks a{
+    text-decoration: navajowhite;
+    color: #0099FF;
+}
+.quicklinks a p{
+    margin: 0px 8px 0px 0px;
+    padding: 0px;
+    color: #666666;
+    float: left;
+}
+.lin-x{
+    border: .4pt #666666 solid;
+    margin: 3px 0 8px 0px;
+}
+.latest-blog-posts{
+    color: #fff;
+    width: 24%;
+    float: left;
+    padding: 10px 0px 0 0px;
+}
+.latest-blog-posts h6{
+    font-family: Georgia;
+    font-size: 12pt;
+    margin: 40px 0px 13px 0px;
+}
+.pilot{
+    color: #666666;
+    font-family: Georgia;
+    font-size: 14pt;
+    margin: 9px 0px 35px 0px;
+}
+.admin-text{
+    font-family: 'Georgia';
+    font-size: 10pt;
+    color: #666666;
+    margin: -26px 0px 8px 2px;
+}
+.text-blog{
+    font-family: Georgia;
+    font-size: 12pt;
+    color: #666666;
+    margin: -30px 0px -3px 0px;
+}
+.titl-read-more{
+    text-decoration: none;
+    color: #0099FF;
+    margin: 0px 0px 0px 220px;
+    padding: 0 0 0 15px;
+    font-size: 9pt;
+}
+.contact-us{
+    color: #fff;
+    font-size: 18pt;
+    float: right;
+    padding: 23px 96px 0 0px;
+    margin: 0 39px 0 0;
+}
+.contact-Name{
+    width: 265px;
+    height: 26pt;
+    border-radius: 7%;
+    border: aliceblue;
+    background-color: #232323;
+    color: #666666;
+    margin: 0px -96px 8px 0px;
+    padding: 0 0 0 15px;
+}
+.contact-Name input{
+    border: aliceblue;
+    background-color: #232323;
+    color: #666666;
+    padding: 0px 0px 0 0px;
+    font-size: 13pt;
+    font-family: Georgia;
+}
+.contact-Email{
+    width: 265px;
+    height: 26pt;
+    border-radius: 7%;
+    border: aliceblue;
+    background-color: #232323;
+    color: #666666;
+    margin: 0px -117px 7px 0px;
+    padding: 0 0 0 15px;
+}
+.contact-Email input{
+    border: aliceblue;
+    background-color: #232323;
+    color: #666666;
+    padding: 0px 0px 0 0px;
+    font-size: 13pt;
+    font-family: Georgia;
+}
+.contact-Subject{
+    width: 265px;
+    height: 26pt;
+    border-radius: 7%;
+    border: aliceblue;
+    background-color: #232323;
+    color: #666666;
+    margin: 1px -116px 17px 2px;
+    padding: 0 0 0 15px;
+}
+.contact-Subject input{
+    border: aliceblue;
+    background-color: #232323;
+    color: #666666;
+    padding: 0px 0px 0 0px;
+    font-size: 13pt;
+    font-family: Georgia;
+}
+.contact-massage{
+    width: 265px;
+    height: 107pt;
+    border-radius: 4%;
+    border: aliceblue;
+    background-color: #232323;
+    color: #666666;
+    margin: -8px -116px 9px 2px;
+    padding: 0 0 0 15px;
+}
+.contact-massage input{
+    border: aliceblue;
+    background-color: #232323;
+    color: #666666;
+    padding: 0px 0px 0 0px;
+    font-size: 13pt;
+    font-family: Georgia;
+}
+.contact-submit input{
+    background-color: #0099FF;
+    color: #fff;
+    width: 52pt;
+    height: 23pt;
+    border: aliceblue;
+    cursor: pointer;
+    border-radius: 14%;
+    margin: 0px 0px 44px 12px;
+}
+.clearfix{
+    clear: both;
+}
+.final-page{
+    background-color: #222222;
+    width: 100%;
+    height: 46pt;
+    font-size: 12pt;
+    padding: 0px;
+    margin: 54px 0 0px 0px;
+}
+.buttom-copy{
+    font-family: Georgia;
+    font-size: 12pt;
+    color: #666666;
+    padding: 28px 0 0 34px;
+    float: left;
+    margin: 0px;
+}
+.buttom-logo{
+    font-family: Georgia;
+    font-size: 12pt;
+    color: #666666;
+    padding: 28px 23px 0px 0px;
+    float: right;
+    margin: 0px;
+}
